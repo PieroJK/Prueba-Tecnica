@@ -1,0 +1,7 @@
+1. CASO DE NEGOCIO
+De las 11 áreas del DAMA-DMBOK, recomendaría iniciar por Gobernanza de Datos (Data Governance) como eje central, apoyada inmediatamente por Gestión de la Calidad de Datos.
+¿Por qué Gobernanza primero?
+Porque en nivel 0, el problema no es técnico, es organizacional. No existen responsables claros, no hay políticas, no hay reglas del juego. En una institución financiera esto es crítico: se maneja información sensible de clientes, créditos, movimientos y riesgos regulatorios. Sin un marco de gobernanza que defina quién es dueño de cada dato, qué significa cada campo y quién puede acceder a qué, cualquier otro esfuerzo técnico que se haga encima queda sin sustento.
+La gobernanza establece los cimientos: nombra a los Data Stewards y Data Owners, define el comité de datos, establece políticas y crea la cultura. Sin eso, implementar un MDM o un catálogo de datos es construir sobre arena.
+¿Por qué apoyarse en Calidad de Datos desde el inicio?
+Porque en una entidad financiera los reportes regulatorios (SBS, BCRP en el caso peruano) exigen datos exactos y auditables. Si la gobernanza define las reglas, la calidad de datos las mide y evidencia dónde están los problemas reales, lo que le da argumentos concretos a la institución para priorizar inversión y cambio.

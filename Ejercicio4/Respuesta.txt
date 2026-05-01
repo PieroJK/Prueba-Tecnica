@@ -1,0 +1,15 @@
+2. TEÓRICO
+
+DAMA-DMBOK: Es una guía de referencia publicada por la asociación DAMA International que reúne las mejores prácticas para la gestión profesional de datos en una organización. Define 11 áreas de conocimiento que van desde la gobernanza hasta la gestión de documentos, y sirve como base para estructurar un programa de gobierno de datos.
+
+Power BI: Es una herramienta de Microsoft para análisis y visualización de datos. Permite conectarse a múltiples fuentes, transformar la información y construir dashboards e informes interactivos que ayudan a la toma de decisiones de negocio.
+SSRS: Son las siglas de SQL Server Reporting Services. Es una plataforma de Microsoft para crear, administrar y distribuir informes paginados y estructurados, generalmente usados en entornos corporativos donde se necesitan reportes formales en PDF o Excel de manera programada.
+
+Gobierno de Datos: Es el conjunto de políticas, procesos, roles y responsabilidades que una organización establece para asegurar que sus datos sean confiables, seguros, accesibles y usados correctamente. En simple: es definir quién decide qué sobre los datos y cómo se cuidan.
+Python: Es un lenguaje de programación de propósito general, conocido por su sintaxis simple y legible. En el mundo de datos es muy usado para limpieza, análisis, automatización y machine learning, gracias a librerías como pandas, NumPy y scikit-learn.
+
+Transact-SQL (T-SQL): Es la extensión del lenguaje SQL desarrollada por Microsoft para SQL Server. Agrega al SQL estándar elementos como variables, estructuras de control (IF, WHILE), manejo de errores y procedimientos almacenados, lo que permite escribir lógica de negocio directamente en la base de datos.
+
+MVVM: Es un patrón de arquitectura de software (Model-View-ViewModel) que separa la interfaz de usuario de la lógica de negocio. El Model maneja los datos, la View muestra la pantalla y el ViewModel actúa como puente entre ambos. Es muy usado en aplicaciones WPF y en desarrollo móvil.
+
+Depuración de Código: Es el proceso de identificar, analizar y corregir errores en un programa. Incluye revisar el código línea por línea, usar herramientas de debugging para inspeccionar variables en tiempo de ejecución y validar que la lógica produce los resultados esperados.
